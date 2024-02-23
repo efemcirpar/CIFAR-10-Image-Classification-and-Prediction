@@ -1,1 +1,1 @@
-# CIFAR-10-Image-Classification-and-Prediction
+# CIFAR-10 Image Classification and Prediction
