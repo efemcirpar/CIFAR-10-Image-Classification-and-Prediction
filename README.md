@@ -1,6 +1,8 @@
 # CIFAR-10 Image Classification and Prediction
 
-This project demonstrates the application of various machine learning and deep learning algorithms for image classification and prediction tasks on the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. 
+### IMPORTANT NOTE: THE CODE CONTAINS ALL THE ALGORITHMS. TO UTILIZE AN ALGORITHM, OTHER ALGORITHMS SHOULD BE COMMENTED OUT.
+
+This project demonstrates the application of various machine learning and deep learning algorithms for image classification and prediction tasks on the CIFAR-10 dataset with the Keras library and TensorFlow framework.. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. 
 
 By comparing the performance of different methods, users can gain insights into the effectiveness of each approach for this specific dataset. Used algorithms are as follows:  
 
